@@ -101,5 +101,6 @@ This program is an excellent example of how simple compression techniques like R
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/cb3aaa81-ee83-4514-828a-eb99bfc64752)
 
 
